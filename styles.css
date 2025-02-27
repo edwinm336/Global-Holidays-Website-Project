@@ -1,13 +1,4 @@
-.c-item {
-  height: 780px;
 
-}
-
-.c-img {
-  height: 100%;
-  object-fit: cover;
-  filter: brightness(0.6);
-}
 li {
   display: block;
   transition-duration: 0.5s;
@@ -41,4 +32,5 @@ li {
  body{
   background-color: #ffd700;
  }
+ 
  
