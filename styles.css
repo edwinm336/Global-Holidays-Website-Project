@@ -32,6 +32,7 @@ li {
  body{
   background-color: #ffd700;
  }
+<<<<<<< HEAD
  /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
  .row.content {height: 450px}
     
@@ -56,3 +57,7 @@ li {
   height:300px;
   width:300px;
 }
+=======
+ 
+ 
+>>>>>>> 3e07dc9 (changes)
